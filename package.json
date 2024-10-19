@@ -1,16 +1,35 @@
 {
   "name": "sampinfoque",
-  "version": "1.2.0",
-  "description": "A simple package to fetch server info.",
+  "version": "1.2.1",
+  "description": "A simple and efficient package to fetch and parse SA-MP server information.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": ["samp", "server", "info"],
+  "keywords": [
+    "samp",
+    "server",
+    "info",
+    "SA-MP",
+    "game",
+    "multiplayer",
+    "fetch"
+  ],
   "author": "Sebastian",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
-    "cheerio": "^1.0.0- rc.10"
+    "cheerio": "^1.0.0-rc.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Anit-K-Peter/sampinfoque"
+  },
+  "bugs": {
+    "url": "https://github.com/Anit-K-Peter/sampinfoque/issues"
+  },
+  "homepage": "https://github.com/Anit-K-Peter/sampinfoque#readme",
+  "engines": {
+    "node": ">=12.0.0"
   }
 }

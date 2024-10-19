@@ -8,8 +8,6 @@ A simple Node.js module to fetch and display information from SA-MP (San Andreas
 npm install sampinfoque
 ```
 
-Here's a sample `README.md` explaining how to get the `serverInfoUrl` from GS4u.net:
-
 ---
 
 ## 📋 Step-by-Step Guide To Get URL

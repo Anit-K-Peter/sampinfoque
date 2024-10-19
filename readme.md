@@ -8,6 +8,37 @@ A simple Node.js module to fetch and display information from SA-MP (San Andreas
 npm install sampinfoque
 ```
 
+Here's a sample `README.md` explaining how to get the `serverInfoUrl` from GS4u.net:
+
+---
+
+## 📋 Step-by-Step Guide To Get URL
+To use the `sampinfoque` npm package, you need a valid `serverInfoUrl` from GS4u.net. Follow the steps below to obtain this URL:
+
+<details>
+<summary><strong>Step 1: Visit GS4u.net</strong></summary>
+Go to [GS4u.net](https://www.gs4u.net), a platform that provides SA-MP server listings.
+</details>
+
+<details>
+<summary><strong>Step 2: Search for Your Server</strong></summary>
+1. Use the search bar on the homepage to find your SA-MP server.
+2. Type your server's name, IP address, or keywords to locate it.
+</details>
+
+<details>
+<summary><strong>Step 3: Open Your Server's Details Page</strong></summary>
+1. From the search results, click on your server listing.
+2. This will open the server details page showing information such as player count, hostname, game mode, and more.
+</details>
+
+<details>
+<summary><strong>Step 4: Copy the Page URL</strong></summary>
+1. Once you're on the server details page, copy the URL from your browser's address bar.
+2. This URL is your `serverInfoUrl`. It should look something like this:
+</details>
+
+---
 ##  Usage server.js
 
 ```javascript

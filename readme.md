@@ -8,7 +8,7 @@ A simple Node.js module to fetch and display information from SA-MP (San Andreas
 npm install sampinfoque
 ```
 
-## 🚀 Usage
+##  Usage server.js
 
 ```javascript
 const SampInfo = require('sampinfoque');
@@ -24,12 +24,8 @@ const start = async () => {
 
 start();
 ```
-
-## 🔧 Features
-
-- Fetch detailed information from SA-MP servers.
-- Easy to set up and use with minimal configuration.
-- Handles errors gracefully.
+## Output
+![](https://cdn.discordapp.com/attachments/1079951331760017418/1297122267016466463/SPOILER_image.png?ex=6714c6bf&is=6713753f&hm=2546157be9fd258b1150a4c323fd803a87976e5a23dd093f0e54798883a0601a&)
 
 ## 📝 Notes
 
